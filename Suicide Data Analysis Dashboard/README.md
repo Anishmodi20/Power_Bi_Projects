@@ -1,3 +1,4 @@
+# World Suicide Data Analysis Dashboard
 Insights :
 
 •	We can see larger number of suicide cases in the countries such as Russian Federation ,United States, and Japan etc.
