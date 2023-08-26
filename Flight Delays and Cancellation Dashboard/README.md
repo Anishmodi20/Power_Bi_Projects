@@ -3,7 +3,8 @@
 ## Introduction:
 This Power Bi project aims to  analyse the flight delays and cancellations(Dec 2019 & Dec 2020) data to find out the biggest reason for flight arrival delay and flight cancellation.
 
-About the dataset - This dataset contains the airport name, airport codename, carrier name, no. of arrival flights, no. of flights delayed, total arrival delay time. It also contains the no. of flights delayed and total arrival delay time due to various reasons i.e, security breach, bad weather, carrier delay, air traffic(nas), late aircraft delay.
+## About the dataset:
+This dataset contains the airport name, airport codename, carrier name, no. of arrival flights, no. of flights delayed, total arrival delay time. It also contains the no. of flights delayed and total arrival delay time due to various reasons i.e, security breach, bad weather, carrier delay, air traffic(nas), late aircraft delay.
 
 ## Insights:
 
