@@ -1,4 +1,5 @@
-![Screenshot 2024-02-02 184054](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/dd340b8c-6c3c-4fa7-9960-9377d7662cf8)
+![Uploading Screenshot 2024-02-02 184054.png…]()
+
 
 # Data Professional Survey Breakdown Dashboard
 
