@@ -1,4 +1,5 @@
-![Screenshot 2024-02-02 184054](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/5316d08a-2b22-41da-bafa-b1d1554b73a6)
+![Screenshot 2024-02-02 184054](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/cebc7405-ce59-45e4-8290-784bf3e4f1dd)
+
 
 
 
@@ -26,6 +27,7 @@ The dataset contains the names of various countries of survey takers, their curr
 
 ## Conclusion: 
 According to the Data Professional Survey Breakdown, there seems to be a significant correlation between satisfaction and both compensation and work-life balance. The average wage also appears to be influenced by job titles. The report also reveals that a barrier to entry in the data science area may affect overall work satisfaction. Overall, maintaining a balance between work and life, earning a competitive compensation, and having one's job title properly recognized are essential for data professionals' pleasure and job satisfaction.
+
 
 
 
