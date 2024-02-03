@@ -1,4 +1,4 @@
-![1](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/9f48d9e8-800f-4e1a-a7e0-08d81cfd6c84) ![2}(https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/5faea14f-b233-45e9-9af5-cb6ba6d698c1) 
+![1](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/9f48d9e8-800f-4e1a-a7e0-08d81cfd6c84) ![2](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/e093a787-e5f7-4952-84f3-00bcbbc17593)
 ![4](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/89a68a18-8faa-4cc6-9094-67ae11753813) ![5](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/2d225533-f22b-4a3d-a6da-f12daedbf713)
 ![6](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/36fefa3e-37dd-417d-9b51-b8d84ba99e28) ![7](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/697fce87-66bc-42ea-ad07-b8dc07e321c9)
 
