@@ -1,4 +1,5 @@
-![Screenshot 2024-02-02 184054](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/cebc7405-ce59-45e4-8290-784bf3e4f1dd)
+![Screenshot 2024-02-02 184054](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/cebc7405-ce59-45e4-8290-784bf3e4f1dd) ![Screenshot 2024-02-02 184112](https://github.com/Anishmodi20/Power_Bi_Projects/assets/79532223/74a5cdc0-bdb4-4279-a1c4-c4933e818640)
+
 
 
 
